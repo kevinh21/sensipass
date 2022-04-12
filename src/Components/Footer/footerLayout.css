@@ -1,0 +1,21 @@
+body {
+  background-color: #3a495d;
+}
+
+.footWrapper {
+  height: 354px;
+
+}
+
+.mediaImages {
+  display: inline-flex;
+  justify-content: space-evenly;
+  width: 48%;
+}
+
+.footText {
+  float: right;
+  display: inline-flex;
+  justify-content: space-evenly;
+  width: 52%;
+}

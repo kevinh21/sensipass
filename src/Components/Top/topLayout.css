@@ -1,0 +1,14 @@
+/* Learned to put image in backtround from Eyerusalem */
+
+.background {
+  background-image: url("../../../public/images/crowd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.topline {
+  display: flex;
+  padding: 23px;
+  padding-left: 35px;
+  justify-content: space-between;
+}

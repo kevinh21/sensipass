@@ -1,0 +1,25 @@
+
+
+/*The below text is the first paragraph of the sensipass footer.  notes2.txt has the 2nd paragraph
+The import code below the text in this doc works.
+Need to create a 2nd component to import the 2nd paragraph of text.
+*/
+
+
+SENSIPASS ARE RECOGNIZED THOUGHT LEADERS IN INTERACTIVE IDENTITY ASSURANCE SYSTEMS, ENABLING ORGANIZATIONS TO PROTECT DIGITAL, PHYSICAL AND HUMAN ASSETS FROM INTERNAL AND EXTERNAL CRIMINALS.
+
+
+/*
+import React from 'react';
+import textfile from "../assets/NOTES.txt";
+
+function Notes() {
+  const [text, setText] = React.useState();
+  fetch(textfile)
+    .then((response) => response.text())
+    .then((textContent) => {
+      setText(textContent);
+    });
+  return text || "Loading...";
+}
+*/

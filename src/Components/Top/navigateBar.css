@@ -1,0 +1,52 @@
+.alignBars {
+  display: flex;
+  justify-items: center;
+  margin-left: calc(39.7%);
+  margin-top: 31.5vh;
+  width: 308px;
+  justify-content: space-evenly;
+}
+
+.bar1 {
+  border-top-left-radius: 45px;
+  border-bottom-left-radius: 45px;
+  height: 10px;
+  width: 75px;
+  width: 50px;
+  border-style: none;
+  background: grey;
+}
+
+.bar2 {
+  height: 10px;
+  width: 75px;
+  width: 50px;
+  border-style: none;
+  background: grey;
+}
+
+.bar3 {
+  height: 10px;
+  width: 75px;
+  width: 50px;
+  border-style: none;
+  background: grey;
+}
+
+.bar4 {
+  height: 10px;
+  width: 75px;
+  width: 50px;
+  border-style: none;
+  background: grey;
+}
+
+.bar5 {
+  border-top-right-radius: 45px;
+  border-bottom-right-radius: 45px;
+  height: 10px;
+  width: 75px;
+  width: 50px;
+  border-style: none;
+  background: white;
+}

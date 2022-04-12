@@ -1,0 +1,12 @@
+.textWrapper {
+  width: 80%;
+  margin-top: 74px;
+  margin-left: -45px;
+  font-size: 12px;
+  line-height: 19px;
+  color: rgba(155, 171, 193, 0.5);
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
